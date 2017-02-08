@@ -16,6 +16,7 @@ def main():
         "highstock.js",
         "highstock-exporting.js",
         "highmaps-module.js",
+		"data-module.js",
         "treemap-module.js",
         "highcharts-more.js",
         "highcharts-drilldown.js",
