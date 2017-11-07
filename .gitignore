@@ -93,4 +93,6 @@ ENV/
 
 # Other
 lib
+css
 *.js
+*.css

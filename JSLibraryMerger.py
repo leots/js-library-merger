@@ -10,7 +10,7 @@ def main():
     # noinspection SpellCheckingInspection
     files_to_merge = [
         "leaflet.js",
-        "leaflet.contextmenu.js",
+        "leaflet.contextmenu.min.js",
         "leaflet.markercluster.js",
         "ag-grid.min.js",
         "highstock/highstock.js",
